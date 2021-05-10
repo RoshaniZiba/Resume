@@ -24,7 +24,7 @@ body{
 * Laravel
 * Adobe Dreamweaver
 * Visual Studio
-* ترجمه
+
 
 ### تحصیلات
 
