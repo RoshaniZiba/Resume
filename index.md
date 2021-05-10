@@ -50,7 +50,11 @@
 + I am working in hight School
 
 
+### Researches
 
+---
++ designing Cms 
++ Architecture article 4 + 1
 
 --- 
 ### [رزومه فارسی](resume-fa.md)
