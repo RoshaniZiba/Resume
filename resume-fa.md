@@ -20,7 +20,10 @@ body{
 ---
 * programing language ASP.net
 * programing language C#
-* 
+* MySQL
+* Laravel
+* Adobe Dreamweaver
+* Visual Studio
 * ترجمه
 
 ### تحصیلات
