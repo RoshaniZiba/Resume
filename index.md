@@ -1,6 +1,7 @@
 
-![zzzz](https://user-images.githubusercontent.com/82566109/117699024-9756cd80-b1d9-11eb-8018-b02b95a683e8.jpg)  Ziba Roshani
+![zzzz](https://user-images.githubusercontent.com/82566109/117699024-9756cd80-b1d9-11eb-8018-b02b95a683e8.jpg) 
 
+### Ziba Roshani
 
 ### Personal informations
 
