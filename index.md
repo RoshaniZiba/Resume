@@ -1,30 +1,34 @@
 
-### Anahita Taheri
+### Ziba Roshani
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
-+ location : Tehran , I.R.Iran
++ name: Ziba
++ last name : Roshani
++ Date of birth : 1989/January/27
++ I am a teacher and software engineering student
++ location : miyaneh , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ translating
++ Programing language ASP.net
++ Programing language C#
++ MySQL
++ Laravel
++ Adobe Dreamweaver
++bVisual Studio
 
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
-_ payam Noor University of North 
++ Diploma : Movahed high school
++ Bachelor of science : software engineering
++ Graduate student:payam Noor University of North 
 
 ### language
 
@@ -35,15 +39,15 @@ _ payam Noor University of North
 ### Favorites
 
 ---
-+ Trade
-+ Studing historical books
-+ travel 
-+ playing volleyball
++ Coding
++ Study scientific books
++ Travel
++ Play badminton
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
++ I am working in hight School
 
 
 
